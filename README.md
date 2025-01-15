@@ -15,6 +15,7 @@
 ### 1. Склонируйте репозиторий
 
 git clone https://github.com/4pokodav/local-transcriber.git
+
 cd local-transcriber
 
 ### 2. Постройте Docker-образ
