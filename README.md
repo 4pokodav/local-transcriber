@@ -18,6 +18,8 @@ git clone https://github.com/4pokodav/local-transcriber.git
 
 cd local-transcriber
 
+git checkout master
+
 ### 2. Постройте Docker-образ
 
 docker build -t speech-transcriber .
