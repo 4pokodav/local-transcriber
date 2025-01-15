@@ -44,4 +44,5 @@ docker run -d -p 8080:5000 --name speech-transcriber speech-transcriber
 
 Если вы хотите скачать готовый образ, выполните:
 docker pull artemka2005/speech-transcriber:latest
+
 docker run -d -p 8080:5000 --name speech-transcriber artemka2005/speech-transcriber:latest
